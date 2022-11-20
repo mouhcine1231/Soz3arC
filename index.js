@@ -13,5 +13,5 @@ new userAccount(client, Discord).leveling({
     time: 10000, 
     type: 'eng' 
 });
-client.login("ODU1NDQxNzAwMzgwOTk5Njkw.GYR_zs.tfJFRxYJvyo8H1Bdq1DuwNjKjdS1UTwFc6D0sw");
+client.login();
 //https://ra3dstudio.com CopyRight Codes
